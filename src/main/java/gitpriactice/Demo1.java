@@ -12,6 +12,7 @@ public class Demo1 {
 		int d = 30;
 		double e = 40.0;
 		char x = 'r';
+		String st = "new string";
 	}
 
 }
